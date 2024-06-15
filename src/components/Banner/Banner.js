@@ -1,9 +1,8 @@
 import { Container, makeStyles, Typography } from "@material-ui/core";
-import Carousel from "./Carousel";
 
 const useStyles = makeStyles((theme) => ({
   banner: {
-    backgroundImage: "url(./mkc.jpg)", 
+    backgroundImage: "url(./mkc.jpg)",
   },
   bannerContent: {
     height: 400,
@@ -56,7 +55,7 @@ function Banner() {
             "Your Personal Detective in the Crypto Jungle!"
           </Typography>
         </div>
-        
+
       </Container>
     </div>
   );
