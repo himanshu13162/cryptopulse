@@ -2,12 +2,12 @@
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCJ8GLwaDw8xAYe67m5bsOtkBcmeDkoyYA",
-  authDomain: "cryptopulse-1bb80.firebaseapp.com",
-  projectId: "cryptopulse-1bb80",
-  storageBucket: "cryptopulse-1bb80.appspot.com",
-  messagingSenderId: "139762123902",
-  appId: "1:139762123902:web:d1dd4b52de72f7f3d6442f"
+  apiKey: "AIzaSyCHlgH0j4E0KoKe4UGG8lFijSK_m6Qs13Q",
+  authDomain: "crypto-pulse-3o.firebaseapp.com",
+  projectId: "crypto-pulse-3o",
+  storageBucket: "crypto-pulse-3o.appspot.com",
+  messagingSenderId: "268762423179",
+  appId: "1:268762423179:web:6604ff08f132e2b65d598e"
 };
 
 export default firebaseConfig; 
